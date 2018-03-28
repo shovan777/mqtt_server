@@ -1,0 +1,10 @@
+https://blog.risingstack.com/getting-started-with-nodejs-and-mqtt/
+https://flespi.com/blog/http-vs-mqtt-performance-tests
+https://learn.adafruit.com/category/internet-of-things-iot
+https://learn.adafruit.com/alltheiot-transports
+https://devcenter.heroku.com/articles/cloudmqtt
+http://thejackalofjavascript.com/getting-started-mqtt/
+https://devcenter.heroku.com/articles/cloudmqtt
+https://blog.heroku.com/freight-farms-on-heroku
+https://github.com/mcollina/mosca/wiki/MQTT-over-Websockets
+https://andrewpomorski.github.io/Hello-There/
